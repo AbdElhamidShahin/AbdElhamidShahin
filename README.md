@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abdelhamid Ibrahim</h1>
 <p align="center">
-  Flutter Developer | Passionate about Cross-Platform Apps 🚀 <br>
-  Focused on Clean Code, Scalable Architectures, and Modern UI/UX ✨
+"Hi, I’m Abdelhamid Ibrahim 👋 — a Flutter Developer passionate about building robust, scalable, and visually appealing mobile apps."
 </p>
 
 ---
