@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abdelhamid Ibrahim</h1>
 <p align="center">
-"Hi, I’m Abdelhamid Ibrahim 👋 — a Flutter Developer passionate about building robust, scalable, and visually appealing mobile apps."
+"I'm Abdelhamid Shahin, a junior Flutter developer 🚀 passionate about transforming ideas into reality using Dart/Flutter. Check out my GitHub for a glimpse of my projects. Let's build something amazing together! 💻✨"
 </p>
 
 ---
