@@ -2,20 +2,20 @@
 
 ### Flutter Developer · Mobile Application Engineer
 
-Flutter Developer specializing in building scalable, maintainable mobile applications using Flutter, Dart, and modern architecture patterns. I focus on delivering production-ready apps with clean codebases, solid architecture, and smooth user experiences.
+I build Flutter apps focused on clean structure and real usability. My main interests are architecture patterns, state management, and making sure the codebase stays readable as the project grows.
 
 - 📍 Egypt
 - 🎓 Higher Institute for Computers and Information — Tanta (2022–2026)
-- 🔭 Currently building: AI-powered mobile experiences with Flutter & Supabase
-- 🧠 Focused on: Clean Architecture, BLoC/Cubit state management, and backend integration
+- 🔭 Currently working with Flutter, Supabase, and BLoC
+- 📫 Open to Flutter developer opportunities
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I design and build Flutter applications with a strong emphasis on architecture and long-term maintainability. My work spans the full mobile development lifecycle — from system design and API integration to UI implementation and deployment.
+I work on Flutter mobile applications across the full development cycle — UI, state management, API integration, and backend connection. I try to keep things structured using Clean Architecture so features are easier to add and debug later.
 
-I apply Clean Architecture and layered design patterns to separate concerns, enforce SOLID principles, and make codebases easy to test and scale. I'm comfortable integrating with Firebase, Supabase, and RESTful APIs, and I care deeply about delivering experiences that feel polished and performant on both Android and iOS.
+Most of my recent projects involve Supabase as a backend, BLoC/Cubit for state, and REST API integration. I'm also comfortable working with Firebase and local storage solutions.
 
 ---
 
@@ -27,20 +27,20 @@ I apply Clean Architecture and layered design patterns to separate concerns, enf
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-Flutter · Dart · Responsive UI · Material Design · Custom Animations
+Flutter · Dart · Responsive UI · Material Design · Animations
 
 **Architecture & State Management**
 
-Clean Architecture · MVVM · Layered Architecture · BLoC · Cubit · Dependency Injection
+Clean Architecture · MVVM · BLoC · Cubit · Dependency Injection
 
 **Backend & Data**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Firebase · Supabase · PostgreSQL · REST APIs · Authentication · Local Storage (SharedPreferences / Hive)
+Firebase · Supabase · PostgreSQL · REST APIs · Authentication · SharedPreferences · Hive
 
-**Tools & Workflow**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -51,116 +51,130 @@ Git · GitHub · Android Studio · VS Code · Postman
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Highlights
 
-### 🏨 Hotel Guide — Graduation Project
-
-A full-featured hotel booking platform for discovering and reserving hotels across Egypt. Designed with a multi-layered backend and AI-powered search assistance.
-
-**Key Features**
-- JWT-based authentication and user session management
-- Hotel discovery with search, filtering, and detailed room views
-- Room booking with in-app wallet and Stripe payment integration
-- AI assistant (Groq AI via n8n automation) for natural-language hotel search
-- Real-time data powered by Supabase and PostgreSQL
-
-**Tech Stack**
-
-`Flutter` · `Dart` · `Supabase` · `PostgreSQL` · `Stripe` · `n8n` · `Groq AI`
-
-> 🔗 [View Repository](#) · 📸 Screenshots available in repo
+- 📱 2 apps published on Google Play
+- 🎓 Graduation project with AI assistant, Stripe payments, and Supabase backend
+- 🏗️ Built production apps using Clean Architecture and BLoC from scratch
+- 🔗 Integrated third-party services: Stripe, Groq AI, n8n, OpenStreetMap
 
 ---
 
-### 💪 Power Pulse — AI-Powered Fitness App
+## 🚀 Projects
 
-A premium fitness application with a dark UI, AI-driven workout features, and offline-first architecture. Built to demonstrate production-level Flutter practices.
+---
 
-**Key Features**
-- Exercise database with workout tracking and progress monitoring
-- User profile management with persistent local state
-- Offline-first design using local caching strategies
-- Dark premium UI with smooth transitions and animations
-- Structured with Clean Architecture and BLoC state management
+### 💪 Power Pulse — Fitness App
+
+Fitness tracking app with a dark UI, exercise database, and offline support.
+
+**Features**
+- Workout tracking and progress monitoring
+- Exercise library with details
+- User profile with local data persistence
+- Offline-first using local caching
+- Clean Architecture with BLoC state management
 
 **Tech Stack**
 
 `Flutter` · `Dart` · `BLoC` · `Clean Architecture` · `SharedPreferences`
 
-> 🔗 [View Repository](#) · 📸 Screenshots available in repo
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AbdElhamidShahin/power-pulse-fitness-app)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yourcompanyname.yourappname&hl=ar)
+
+**Screenshots**
+
+<img width="1600" height="900" alt="Power Pulse" src="https://github.com/user-attachments/assets/90e77b32-b8b5-4faa-acc0-ab3a3530ea09" />
 
 ---
 
-### 📖 Quran App
+### 🏨 Hotel Guide — Graduation Project
 
-A focused Quran reading app with audio support and prayer time notifications.
+Hotel booking app for finding and reserving hotels in Egypt. Includes an AI assistant for hotel search using natural language.
 
-**Key Features**
-- Full Quran reader with navigation and bookmarking
-- Daily prayer time calculations with push notifications
-- Audio recitation support
-- Offline content access via local storage
+**Features**
+- User authentication and session management
+- Hotel search with filters and room details
+- Room booking, in-app wallet, and Stripe payments
+- AI-powered search via Groq AI and n8n automation
+- Backend with Supabase and PostgreSQL
 
 **Tech Stack**
 
-`Flutter` · `Dart` · `REST APIs` · `Local Storage` · `Notifications`
+`Flutter` · `Dart` · `Supabase` · `PostgreSQL` · `Stripe` · `n8n` · `Groq AI`
 
-> 🔗 [View Repository](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AbdElhamidShahin/Hotel-Guide)
+
+**Screenshots**
+
+<img width="1920" height="1080" alt="Hotel Guide" src="https://github.com/user-attachments/assets/e3edd652-d8ff-4cfc-87f8-3a8bb088c2fd" />
 
 ---
 
-### 🗺️ Dalily — Tourism Guide App
+### 🗺️ Dalily — Tourism Guide
 
-A location-aware tourism discovery application for exploring places across Egypt.
+Tourism discovery app for exploring places across Egypt.
 
-**Key Features**
-- Category-based place discovery with detail views
-- Interactive maps powered by OpenStreetMap
-- REST API integration for live content
+**Features**
+- Category-based place browsing
+- Interactive maps via OpenStreetMap
+- REST API for live content
 
 **Tech Stack**
 
 `Flutter` · `Dart` · `OpenStreetMap` · `REST APIs`
 
-> 🔗 [View Repository](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AbdElhamidShahin/daliliy-tourism-guide)
+
+**Screenshots**
+
+<img width="1920" height="1080" alt="Dalily" src="https://github.com/user-attachments/assets/38b6cafa-065f-4434-ac22-c28b8b146be1" />
 
 ---
 
-## 📊 GitHub Statistics
+### 📖 Quran App
+
+Quran reading app with audio and prayer times.
+
+**Features**
+- Quran reader with navigation and bookmarking
+- Prayer time calculations with daily notifications
+- Audio recitation support
+- Offline access via local storage
+
+**Tech Stack**
+
+`Flutter` · `Dart` · `REST APIs` · `Local Storage` · `Notifications`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AbdElhamidShahin/quran-karim-flutter-app)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.abdo.quranapp&hl=ar)
+
+**Screenshots**
+
+<img width="1161" height="533" alt="Quran App" src="https://github.com/user-attachments/assets/3543fb74-2682-4b78-ae0b-5a50f8d2381f" />
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelhamidShahin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhamidShahin&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdElhamidShahin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdElhamidShahin&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdelhamidShahin&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdElhamidShahin&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 🧭 Development Philosophy
-
-I believe good software is defined by what happens after the first release. I write code that is easy to read, easy to change, and easy to reason about — because those qualities determine how long a product can scale and how fast a team can move.
-
-- **Clean Architecture** — strict layer separation keeps business logic independent of frameworks and UI.
-- **SOLID Principles** — I treat these as engineering standards, not guidelines.
-- **Meaningful Abstractions** — I extract interfaces and patterns when they add clarity, not just to follow patterns.
-- **User-First Thinking** — performance and polish are not afterthoughts; they're part of the definition of done.
-
----
-
-## 📬 Let's Connect
-
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/abdelhamid-shahin](#) |
-| 🐙 GitHub | [github.com/AbdelhamidShahin](#) |
-| 📧 Email | abdelhamid@example.com |
-| 🌐 Portfolio | [portfolio-link](#) |
-
----
+## 📬 Connect
 
 <p align="center">
-  <i>Open to Flutter developer roles — full-time, remote, or freelance.</i>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-1esf.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-hamid-shahin-7a035b268/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdelhamid.ebrahim.shahin)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=201205687372&text&type=phone_number&app_absent=0)
+
 </p>
