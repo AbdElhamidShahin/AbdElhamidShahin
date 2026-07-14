@@ -128,7 +128,7 @@ Tourism discovery app for exploring places across Egypt.
 
 **Screenshots**
 
-<img width="1920" height="1080" alt="Dalily" src="https://github.com/user-attachments/assets/38b6cafa-065f-4434-ac22-c28b8b146be1" />
+<img width="1920" height="1080" alt="daliliy" src="https://github.com/user-attachments/assets/ecb400d2-f29c-41d4-a724-ea74b6f152b1" />
 
 ---
 
