@@ -63,28 +63,32 @@ Git · GitHub · Android Studio · VS Code · Postman
 ## 🚀 Projects
 
 ---
+### 💪 Power Pulse — Fitness & Workout Tracking App
 
-### 💪 Power Pulse — Fitness App
-
-Fitness tracking app with a dark UI, exercise database, and offline support.
+A Flutter fitness app built to help users manage their workouts, track nutrition, and monitor their fitness progress. I recently revisited the project to improve the UI, refine the user experience, and expand its core features.
 
 **Features**
-- Workout tracking and progress monitoring
-- Exercise library with details
-- User profile with local data persistence
-- Offline-first using local caching
-- Clean Architecture with BLoC state management
+- **Workout Planning & Tracking** — Create weekly workout plans, log exercises, track sets and reps, and review workout history.
+- **Exercise Library** — Browse exercises by muscle group, search instantly, and view animated exercise demonstrations.
+- **Nutrition Tracking** — Log daily meals, monitor calories and macronutrients, and track water intake.
+- **Progress Monitoring** — Track weight history, BMI, BMR, TDEE, and weekly activity statistics.
+- **Step Counter** — Track daily steps using the device's pedometer sensor.
+- **Authentication & Guest Mode** — Sign in with email/password or Google, or use the app as a guest with local data storage.
+- **Cloud Synchronization** — Keep user data synchronized with Supabase after authentication, including guest-to-account data migration.
+- **Arabic & English Support** — Localized interface with RTL/LTR layout support.
+- **Personalization & Notifications** — Light and dark themes, profile editing, workout reminders, step reminders, and water-intake notifications.
 
 **Tech Stack**
 
-`Flutter` · `Dart` · `BLoC` · `Clean Architecture` · `SharedPreferences`
+`Flutter` · `Dart` · `Cubit/BLoC` · `Clean Architecture` · `Supabase` · `Firebase` · `GetIt` · `GoRouter` · `Dio` · `SharedPreferences` · `REST APIs` · `GitHub Actions`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AbdElhamidShahin/power-pulse-fitness-app)
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yourcompanyname.yourappname&hl=ar)
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.abdo.powerpulse)
 
 **Screenshots**
 
-<img width="1600" height="900" alt="Power Pulse" src="https://github.com/user-attachments/assets/90e77b32-b8b5-4faa-acc0-ab3a3530ea09" />
+<img width="1600" height="900" alt="Power Pulse — Fitness App" src="https://github.com/user-attachments/assets/90e77b32-b8b5-4faa-acc0-ab3a3530ea09" />
 
 ---
 
