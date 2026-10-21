@@ -88,7 +88,8 @@ A Flutter fitness app built to help users manage their workouts, track nutrition
 
 **Screenshots**
 
-<img width="1600" height="900" alt="Power Pulse — Fitness App" src="https://github.com/user-attachments/assets/90e77b32-b8b5-4faa-acc0-ab3a3530ea09" />
+<img width="1600" height="900" alt="Power Pulse — Fitness App" src="<img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/2f222ff6-bc67-40b3-8ea1-275a07311934" />
+" />
 
 ---
 
